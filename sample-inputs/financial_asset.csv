@@ -1,0 +1,305 @@
+ALGO_INSTRUMENT_ID,ASSET_NAME,ASSET_TYPE_CODE,BENCHMARK_ID,BENCHMARK_INDICATOR,CLOSE_DATE,COMMON_ASSET_ID,COMMON_ASSET_ID_CODE,DESCRIPTION,EFFECTIVE_DATE,EXCHANGE_NAME,FINANCIAL_ASSET_ID,FIRST_AVAILABLE_DATE,ISSUER_ID,OTC_INDICATOR
+,Agnico Eagle Mines Limited,Common Stock,S&P/TSX 60 Index,False,,AEM,Ticker,Stock,2000-01-01,TSX,TSX.AEM,2000-01-01,Agnico Eagle Mines Limited,False
+,Alimentation Couche-Tard Inc.,Common Stock,S&P/TSX 60 Index,False,,ATD.B,Ticker,Stock,2000-01-01,TSX,TSX.ATD.B,2000-01-01,Alimentation Couche-Tard Inc.,False
+,ARC Resources Ltd.,Common Stock,S&P/TSX 60 Index,False,,ARX,Ticker,Stock,2000-01-01,TSX,TSX.ARX,2000-01-01,ARC Resources Ltd.,False
+,Bank of Montreal,Common Stock,S&P/TSX 60 Index,False,,BMO,Ticker,Stock,2000-01-01,TSX,TSX.BMO,2000-01-01,Bank of Montreal,False
+,Bank of Nova Scotia,Common Stock,S&P/TSX 60 Index,False,,BNS,Ticker,Stock,2000-01-01,TSX,TSX.BNS,2000-01-01,Bank of Nova Scotia,False
+,Barrick Gold Corporation,Common Stock,S&P/TSX 60 Index,False,,ABX,Ticker,Stock,2000-01-01,TSX,TSX.ABX,2000-01-01,Barrick Gold Corporation,False
+,BCE Inc.,Common Stock,S&P/TSX 60 Index,False,,BCE,Ticker,Stock,2000-01-01,TSX,TSX.BCE,2000-01-01,BCE Inc.,False
+,BlackBerry Limited,Common Stock,S&P/TSX 60 Index,False,,BB,Ticker,Stock,2000-01-01,TSX,TSX.BB,2000-01-01,BlackBerry Limited,False
+,Bombardier Inc.,Common Stock,S&P/TSX 60 Index,False,,BBD.B,Ticker,Stock,2000-01-01,TSX,TSX.BBD.B,2000-01-01,Bombardier Inc.,False
+,Brookfield Asset Management Inc.,Common Stock,S&P/TSX 60 Index,False,,BAM.A,Ticker,Stock,2000-01-01,TSX,TSX.BAM.A,2000-01-01,Brookfield Asset Management Inc.,False
+,Cameco Corporation,Common Stock,S&P/TSX 60 Index,False,,CCO,Ticker,Stock,2000-01-01,TSX,TSX.CCO,2000-01-01,Cameco Corporation,False
+,Canadian Imperial Bank of Commerce,Common Stock,S&P/TSX 60 Index,False,,CM,Ticker,Stock,2000-01-01,TSX,TSX.CM,2000-01-01,Canadian Imperial Bank of Commerce,False
+,Canadian National Railway Company,Common Stock,S&P/TSX 60 Index,False,,CNR,Ticker,Stock,2000-01-01,TSX,TSX.CNR,2000-01-01,Canadian National Railway Company,False
+,Canadian Natural Resources Limited,Common Stock,S&P/TSX 60 Index,False,,CNQ,Ticker,Stock,2000-01-01,TSX,TSX.CNQ,2000-01-01,Canadian Natural Resources Limited,False
+,Canadian Pacific Railway Limited,Common Stock,S&P/TSX 60 Index,False,,CP,Ticker,Stock,2000-01-01,TSX,TSX.CP,2000-01-01,Canadian Pacific Railway Limited,False
+,"Canadian Tire Corporation, Limited",Common Stock,S&P/TSX 60 Index,False,,CTC.A,Ticker,Stock,2000-01-01,TSX,TSX.CTC.A,2000-01-01,"Canadian Tire Corporation, Limited",False
+,CCL Industries Inc.,Common Stock,S&P/TSX 60 Index,False,,CCL.B,Ticker,Stock,2000-01-01,TSX,TSX.CCL.B,2000-01-01,CCL Industries Inc.,False
+,Cenovus Energy Inc.,Common Stock,S&P/TSX 60 Index,False,,CVE,Ticker,Stock,2000-01-01,TSX,TSX.CVE,2000-01-01,Cenovus Energy Inc.,False
+,CGI Group Inc.,Common Stock,S&P/TSX 60 Index,False,,GIB.A,Ticker,Stock,2000-01-01,TSX,TSX.GIB.A,2000-01-01,CGI Group Inc.,False
+,Constellation Software Inc.,Common Stock,S&P/TSX 60 Index,False,,CSU,Ticker,Stock,2000-01-01,TSX,TSX.CSU,2000-01-01,Constellation Software Inc.,False
+,Crescent Point Energy Corp.,Common Stock,S&P/TSX 60 Index,False,,CPG,Ticker,Stock,2000-01-01,TSX,TSX.CPG,2000-01-01,Crescent Point Energy Corp.,False
+,Dollarama Inc.,Common Stock,S&P/TSX 60 Index,False,,DOL,Ticker,Stock,2000-01-01,TSX,TSX.DOL,2000-01-01,Dollarama Inc.,False
+,Emera Incorporated,Common Stock,S&P/TSX 60 Index,False,,EMA,Ticker,Stock,2000-01-01,TSX,TSX.EMA,2000-01-01,Emera Incorporated,False
+,Enbridge Inc.,Common Stock,S&P/TSX 60 Index,False,,ENB,Ticker,Stock,2000-01-01,TSX,TSX.ENB,2000-01-01,Enbridge Inc.,False
+,Encana Corporation,Common Stock,S&P/TSX 60 Index,False,,ECA,Ticker,Stock,2000-01-01,TSX,TSX.ECA,2000-01-01,Encana Corporation,False
+,First Quantum Minerals Ltd.,Common Stock,S&P/TSX 60 Index,False,,FM,Ticker,Stock,2000-01-01,TSX,TSX.FM,2000-01-01,First Quantum Minerals Ltd.,False
+,Fortis Inc.,Common Stock,S&P/TSX 60 Index,False,,FTS,Ticker,Stock,2000-01-01,TSX,TSX.FTS,2000-01-01,Fortis Inc.,False
+,Franco-Nevada Corporation,Common Stock,S&P/TSX 60 Index,False,,FNV,Ticker,Stock,2000-01-01,TSX,TSX.FNV,2000-01-01,Franco-Nevada Corporation,False
+,George Weston Limited,Common Stock,S&P/TSX 60 Index,False,,WN,Ticker,Stock,2000-01-01,TSX,TSX.WN,2000-01-01,George Weston Limited,False
+,Gildan Activewear Inc.,Common Stock,S&P/TSX 60 Index,False,,GIL,Ticker,Stock,2000-01-01,TSX,TSX.GIL,2000-01-01,Gildan Activewear Inc.,False
+,Goldcorp Inc.,Common Stock,S&P/TSX 60 Index,False,,G,Ticker,Stock,2000-01-01,TSX,TSX.G,2000-01-01,Goldcorp Inc.,False
+,Husky Energy Inc.,Common Stock,S&P/TSX 60 Index,False,,HSE,Ticker,Stock,2000-01-01,TSX,TSX.HSE,2000-01-01,Husky Energy Inc.,False
+,Imperial Oil Limited,Common Stock,S&P/TSX 60 Index,False,,IMO,Ticker,Stock,2000-01-01,TSX,TSX.IMO,2000-01-01,Imperial Oil Limited,False
+,Inter Pipeline Ltd.,Common Stock,S&P/TSX 60 Index,False,,IPL,Ticker,Stock,2000-01-01,TSX,TSX.IPL,2000-01-01,Inter Pipeline Ltd.,False
+,Kinross Gold Corporation,Common Stock,S&P/TSX 60 Index,False,,K,Ticker,Stock,2000-01-01,TSX,TSX.K,2000-01-01,Kinross Gold Corporation,False
+,Loblaw Companies Limited,Common Stock,S&P/TSX 60 Index,False,,L,Ticker,Stock,2000-01-01,TSX,TSX.L,2000-01-01,Loblaw Companies Limited,False
+,Magna International Inc.,Common Stock,S&P/TSX 60 Index,False,,MG,Ticker,Stock,2000-01-01,TSX,TSX.MG,2000-01-01,Magna International Inc.,False
+,Manulife Financial Corporation,Common Stock,S&P/TSX 60 Index,False,,MFC,Ticker,Stock,2000-01-01,TSX,TSX.MFC,2000-01-01,Manulife Financial Corporation,False
+,Metro Inc.,Common Stock,S&P/TSX 60 Index,False,,MRU,Ticker,Stock,2000-01-01,TSX,TSX.MRU,2000-01-01,Metro Inc.,False
+,National Bank of Canada,Common Stock,S&P/TSX 60 Index,False,,,Ticker,Stock,2000-01-01,TSX,TSX.NA,2000-01-01,National Bank of Canada,False
+,Nutrien Inc.,Common Stock,S&P/TSX 60 Index,False,,NTR,Ticker,Stock,2000-01-01,TSX,TSX.NTR,2000-01-01,Nutrien Inc.,False
+,Open Text Corporation,Common Stock,S&P/TSX 60 Index,False,,OTEX,Ticker,Stock,2000-01-01,TSX,TSX.OTEX,2000-01-01,Open Text Corporation,False
+,Pembina Pipeline Corporation,Common Stock,S&P/TSX 60 Index,False,,PPL,Ticker,Stock,2000-01-01,TSX,TSX.PPL,2000-01-01,Pembina Pipeline Corporation,False
+,Power Corporation of Canada,Common Stock,S&P/TSX 60 Index,False,,POW,Ticker,Stock,2000-01-01,TSX,TSX.POW,2000-01-01,Power Corporation of Canada,False
+,Restaurant Brands International Inc.,Common Stock,S&P/TSX 60 Index,False,,QSR,Ticker,Stock,2000-01-01,TSX,TSX.QSR,2000-01-01,Restaurant Brands International Inc.,False
+,Rogers Communications Inc.,Common Stock,S&P/TSX 60 Index,False,,RCI.B,Ticker,Stock,2000-01-01,TSX,TSX.RCI.B,2000-01-01,Rogers Communications Inc.,False
+,Royal Bank of Canada,Common Stock,S&P/TSX 60 Index,False,,RY,Ticker,Stock,2000-01-01,TSX,TSX.RY,2000-01-01,Royal Bank of Canada,False
+,Saputo Inc.,Common Stock,S&P/TSX 60 Index,False,,SAP,Ticker,Stock,2000-01-01,TSX,TSX.SAP,2000-01-01,Saputo Inc.,False
+,Shaw Communications Inc.,Common Stock,S&P/TSX 60 Index,False,,SJR.B,Ticker,Stock,2000-01-01,TSX,TSX.SJR.B,2000-01-01,Shaw Communications Inc.,False
+,SNC-Lavalin Group Inc.,Common Stock,S&P/TSX 60 Index,False,,SNC,Ticker,Stock,2000-01-01,TSX,TSX.SNC,2000-01-01,SNC-Lavalin Group Inc.,False
+,Sun Life Financial Inc.,Common Stock,S&P/TSX 60 Index,False,,SLF,Ticker,Stock,2000-01-01,TSX,TSX.SLF,2000-01-01,Sun Life Financial Inc.,False
+,Suncor Energy Inc.,Common Stock,S&P/TSX 60 Index,False,,SU,Ticker,Stock,2000-01-01,TSX,TSX.SU,2000-01-01,Suncor Energy Inc.,False
+,Teck Resources Limited,Common Stock,S&P/TSX 60 Index,False,,TCK.B,Ticker,Stock,2000-01-01,TSX,TSX.TCK.B,2000-01-01,Teck Resources Limited,False
+,Telus Corporation,Common Stock,S&P/TSX 60 Index,False,,T,Ticker,Stock,2000-01-01,TSX,TSX.T,2000-01-01,Telus Corporation,False
+,Thomson Reuters Corporation,Common Stock,S&P/TSX 60 Index,False,,TRI,Ticker,Stock,2000-01-01,TSX,TSX.TRI,2000-01-01,Thomson Reuters Corporation,False
+,Toronto-Dominion Bank,Common Stock,S&P/TSX 60 Index,False,,TD,Ticker,Stock,2000-01-01,TSX,TSX.TD,2000-01-01,Toronto-Dominion Bank,False
+,TransCanada Corporation,Common Stock,S&P/TSX 60 Index,False,,TRP,Ticker,Stock,2000-01-01,TSX,TSX.TRP,2000-01-01,TransCanada Corporation,False
+,"Valeant Pharmaceuticals International, Inc.",Common Stock,S&P/TSX 60 Index,False,,VRX,Ticker,Stock,2000-01-01,TSX,TSX.VRX,2000-01-01,"Valeant Pharmaceuticals International, Inc.",False
+,Waste Connections US Inc.,Common Stock,S&P/TSX 60 Index,False,,WCN,Ticker,Stock,2000-01-01,TSX,TSX.WCN,2000-01-01,Waste Connections US Inc.,False
+,Wheaton Precious Metals Corporation,Common Stock,S&P/TSX 60 Index,False,,WPM,Ticker,Stock,2000-01-01,TSX,TSX.WPM,2000-01-01,Wheaton Precious Metals Corporation,False
+,3M,Common Stock,Dow Jones 30,False,,MMM,Ticker,Stock,2005-01-01,NYSE,NYSE.MMM,2000-01-01,3M,False
+,American Express,Common Stock,Dow Jones 30,False,,AXP,Ticker,Stock,2005-01-01,NYSE,NYSE.AXP,2000-01-01,American Express,False
+,Apple,Common Stock,Dow Jones 30,False,,AAPL,Ticker,Stock,2005-01-01,NASDAQ,NASDAQ.AAPL,2000-01-01,Apple,False
+,Boeing,Common Stock,Dow Jones 30,False,,BA,Ticker,Stock,2005-01-01,NYSE,NYSE.BA,2000-01-01,Boeing,False
+,Caterpillar,Common Stock,Dow Jones 30,False,,CAT,Ticker,Stock,2005-01-01,NYSE,NYSE.CAT,2000-01-01,Caterpillar,False
+,Chevron,Common Stock,Dow Jones 30,False,,CVX,Ticker,Stock,2005-01-01,NYSE,NYSE.CVX,2000-01-01,Chevron,False
+,Cisco Systems,Common Stock,Dow Jones 30,False,,CSCO,Ticker,Stock,2005-01-01,NASDAQ,NASDAQ.CSCO,2000-01-01,Cisco Systems,False
+,Coca-Cola,Common Stock,Dow Jones 30,False,,KO,Ticker,Stock,2005-01-01,NYSE,NYSE.KO,2000-01-01,Coca-Cola,False
+,DowDuPont,Common Stock,Dow Jones 30,False,,DWDP,Ticker,Stock,2005-01-01,NYSE,NYSE.DWDP,2000-01-01,DowDuPont,False
+,ExxonMobil,Common Stock,Dow Jones 30,False,,XOM,Ticker,Stock,2005-01-01,NYSE,NYSE.XOM,2000-01-01,ExxonMobil,False
+,General Electric,Common Stock,Dow Jones 30,False,,GE,Ticker,Stock,2005-01-01,NYSE,NYSE.GE,2000-01-01,General Electric,False
+,Goldman Sachs,Common Stock,Dow Jones 30,False,,GS,Ticker,Stock,2005-01-01,NYSE,NYSE.GS,2000-01-01,Goldman Sachs,False
+,The Home Depot,Common Stock,Dow Jones 30,False,,HD,Ticker,Stock,2005-01-01,NYSE,NYSE.HD,2000-01-01,The Home Depot,False
+,IBM,Common Stock,Dow Jones 30,False,,IBM,Ticker,Stock,2005-01-01,NYSE,NYSE.IBM,2000-01-01,IBM,False
+,Intel,Common Stock,Dow Jones 30,False,,INTC,Ticker,Stock,2005-01-01,NASDAQ,NASDAQ.INTC,2000-01-01,Intel,False
+,Johnson & Johnson,Common Stock,Dow Jones 30,False,,JNJ,Ticker,Stock,2005-01-01,NYSE,NYSE.JNJ,2000-01-01,Johnson & Johnson,False
+,JPMorgan Chase,Common Stock,Dow Jones 30,False,,JPM,Ticker,Stock,2005-01-01,NYSE,NYSE.JPM,2000-01-01,JPMorgan Chase,False
+,McDonald's,Common Stock,Dow Jones 30,False,,MCD,Ticker,Stock,2005-01-01,NYSE,NYSE.MCD,2000-01-01,McDonald's,False
+,Merck,Common Stock,Dow Jones 30,False,,MRK,Ticker,Stock,2005-01-01,NYSE,NYSE.MRK,2000-01-01,Merck,False
+,Microsoft,Common Stock,Dow Jones 30,False,,MSFT,Ticker,Stock,2005-01-01,NASDAQ,NASDAQ.MSFT,2000-01-01,Microsoft,False
+,Nike,Common Stock,Dow Jones 30,False,,NKE,Ticker,Stock,2005-01-01,NYSE,NYSE.NKE,2000-01-01,Nike,False
+,Pfizer,Common Stock,Dow Jones 30,False,,PFE,Ticker,Stock,2005-01-01,NYSE,NYSE.PFE,2000-01-01,Pfizer,False
+,Procter & Gamble,Common Stock,Dow Jones 30,False,,PG,Ticker,Stock,2005-01-01,NYSE,NYSE.PG,2000-01-01,Procter & Gamble,False
+,Travelers,Common Stock,Dow Jones 30,False,,TRV,Ticker,Stock,2005-01-01,NYSE,NYSE.TRV,2000-01-01,Travelers,False
+,UnitedHealth Group,Common Stock,Dow Jones 30,False,,UNH,Ticker,Stock,2005-01-01,NYSE,NYSE.UNH,2000-01-01,UnitedHealth Group,False
+,United Technologies,Common Stock,Dow Jones 30,False,,UTX,Ticker,Stock,2005-01-01,NYSE,NYSE.UTX,2000-01-01,United Technologies,False
+,Verizon,Common Stock,Dow Jones 30,False,,VZ,Ticker,Stock,2005-01-01,NYSE,NYSE.VZ,2000-01-01,Verizon,False
+,Visa,Common Stock,Dow Jones 30,False,,V,Ticker,Stock,2005-01-01,NYSE,NYSE.V,2000-01-01,Visa,False
+,Walmart,Common Stock,Dow Jones 30,False,,WMT,Ticker,Stock,2005-01-01,NYSE,NYSE.WMT,2000-01-01,Walmart,False
+,Walt Disney,Common Stock,Dow Jones 30,False,,DIS,Ticker,Stock,2005-01-01,NYSE,NYSE.DIS,2000-01-01,Walt Disney,False
+,Apple Inc.,Common Stock,S&P 100,False,,AAPL,Ticker,Stock,2000-01-01,NYSE,NYSE.AAPL,2000-01-01,Apple Inc.,False
+,AbbVie Inc.,Common Stock,S&P 100,False,,ABBV,Ticker,Stock,2000-01-01,NYSE,NYSE.ABBV,2000-01-01,AbbVie Inc.,False
+,Abbott Laboratories,Common Stock,S&P 100,False,,ABT,Ticker,Stock,2000-01-01,NYSE,NYSE.ABT,2000-01-01,Abbott Laboratories,False
+,Accenture plc,Common Stock,S&P 100,False,,ACN,Ticker,Stock,2000-01-01,NYSE,NYSE.ACN,2000-01-01,Accenture plc,False
+,Allergan plc,Common Stock,S&P 100,False,,AGN,Ticker,Stock,2000-01-01,NYSE,NYSE.AGN,2000-01-01,Allergan plc,False
+,American International Group Inc.,Common Stock,S&P 100,False,,AIG,Ticker,Stock,2000-01-01,NYSE,NYSE.AIG,2000-01-01,American International Group Inc.,False
+,Allstate Corp.,Common Stock,S&P 100,False,,ALL,Ticker,Stock,2000-01-01,NYSE,NYSE.ALL,2000-01-01,Allstate Corp.,False
+,Amgen Inc.,Common Stock,S&P 100,False,,AMGN,Ticker,Stock,2000-01-01,NYSE,NYSE.AMGN,2000-01-01,Amgen Inc.,False
+,Amazon.com,Common Stock,S&P 100,False,,AMZN,Ticker,Stock,2000-01-01,NYSE,NYSE.AMZN,2000-01-01,Amazon.com,False
+,American Express Inc.,Common Stock,S&P 100,False,,AXP,Ticker,Stock,2000-01-01,NYSE,NYSE.AXP,2000-01-01,American Express Inc.,False
+,Boeing Co.,Common Stock,S&P 100,False,,BA,Ticker,Stock,2000-01-01,NYSE,NYSE.BA,2000-01-01,Boeing Co.,False
+,Bank of America Corp,Common Stock,S&P 100,False,,BAC,Ticker,Stock,2000-01-01,NYSE,NYSE.BAC,2000-01-01,Bank of America Corp,False
+,Biogen Idec,Common Stock,S&P 100,False,,BIIB,Ticker,Stock,2000-01-01,NYSE,NYSE.BIIB,2000-01-01,Biogen Idec,False
+,The Bank of New York Mellon,Common Stock,S&P 100,False,,BK,Ticker,Stock,2000-01-01,NYSE,NYSE.BK,2000-01-01,The Bank of New York Mellon,False
+,BlackRock Inc,Common Stock,S&P 100,False,,BLK,Ticker,Stock,2000-01-01,NYSE,NYSE.BLK,2000-01-01,BlackRock Inc,False
+,Bristol-Myers Squibb,Common Stock,S&P 100,False,,BMY,Ticker,Stock,2000-01-01,NYSE,NYSE.BMY,2000-01-01,Bristol-Myers Squibb,False
+,Berkshire Hathaway,Common Stock,S&P 100,False,,BRK.B,Ticker,Stock,2000-01-01,NYSE,NYSE.BRK.B,2000-01-01,Berkshire Hathaway,False
+,Citigroup Inc,Common Stock,S&P 100,False,,C,Ticker,Stock,2000-01-01,NYSE,NYSE.C,2000-01-01,Citigroup Inc,False
+,Caterpillar Inc,Common Stock,S&P 100,False,,CAT,Ticker,Stock,2000-01-01,NYSE,NYSE.CAT,2000-01-01,Caterpillar Inc,False
+,Celgene Corp,Common Stock,S&P 100,False,,CELG,Ticker,Stock,2000-01-01,NYSE,NYSE.CELG,2000-01-01,Celgene Corp,False
+,Charter Communications,Common Stock,S&P 100,False,,CHTR,Ticker,Stock,2000-01-01,NYSE,NYSE.CHTR,2000-01-01,Charter Communications,False
+,Colgate-Palmolive Co.,Common Stock,S&P 100,False,,CL,Ticker,Stock,2000-01-01,NYSE,NYSE.CL,2000-01-01,Colgate-Palmolive Co.,False
+,Comcast Corporation,Common Stock,S&P 100,False,,CMCSA,Ticker,Stock,2000-01-01,NYSE,NYSE.CMCSA,2000-01-01,Comcast Corporation,False
+,Capital One Financial Corp.,Common Stock,S&P 100,False,,COF,Ticker,Stock,2000-01-01,NYSE,NYSE.COF,2000-01-01,Capital One Financial Corp.,False
+,ConocoPhillips,Common Stock,S&P 100,False,,COP,Ticker,Stock,2000-01-01,NYSE,NYSE.COP,2000-01-01,ConocoPhillips,False
+,Costco,Common Stock,S&P 100,False,,COST,Ticker,Stock,2000-01-01,NYSE,NYSE.COST,2000-01-01,Costco,False
+,Cisco Systems,Common Stock,S&P 100,False,,CSCO,Ticker,Stock,2000-01-01,NYSE,NYSE.CSCO,2000-01-01,Cisco Systems,False
+,CVS Health,Common Stock,S&P 100,False,,CVS,Ticker,Stock,2000-01-01,NYSE,NYSE.CVS,2000-01-01,CVS Health,False
+,Chevron,Common Stock,S&P 100,False,,CVX,Ticker,Stock,2000-01-01,NYSE,NYSE.CVX,2000-01-01,Chevron,False
+,Danaher,Common Stock,S&P 100,False,,DHR,Ticker,Stock,2000-01-01,NYSE,NYSE.DHR,2000-01-01,Danaher,False
+,The Walt Disney Company,Common Stock,S&P 100,False,,DIS,Ticker,Stock,2000-01-01,NYSE,NYSE.DIS,2000-01-01,The Walt Disney Company,False
+,Duke Energy,Common Stock,S&P 100,False,,DUK,Ticker,Stock,2000-01-01,NYSE,NYSE.DUK,2000-01-01,Duke Energy,False
+,DowDuPont,Common Stock,S&P 100,False,,DWDP,Ticker,Stock,2000-01-01,NYSE,NYSE.DWDP,2000-01-01,DowDuPont,False
+,Emerson Electric Co.,Common Stock,S&P 100,False,,EMR,Ticker,Stock,2000-01-01,NYSE,NYSE.EMR,2000-01-01,Emerson Electric Co.,False
+,Exelon,Common Stock,S&P 100,False,,EXC,Ticker,Stock,2000-01-01,NYSE,NYSE.EXC,2000-01-01,Exelon,False
+,Ford Motor,Common Stock,S&P 100,False,,F,Ticker,Stock,2000-01-01,NYSE,NYSE.F,2000-01-01,Ford Motor,False
+,Facebook,Common Stock,S&P 100,False,,FB,Ticker,Stock,2000-01-01,NYSE,NYSE.FB,2000-01-01,Facebook,False
+,FedEx,Common Stock,S&P 100,False,,FDX,Ticker,Stock,2000-01-01,NYSE,NYSE.FDX,2000-01-01,FedEx,False
+,21st Century Fox,Common Stock,S&P 100,False,,FOX,Ticker,Stock,2000-01-01,NYSE,NYSE.FOX,2000-01-01,21st Century Fox,False
+,21st Century Fox,Common Stock,S&P 100,False,,FOXA,Ticker,Stock,2000-01-01,NYSE,NYSE.FOXA,2000-01-01,21st Century Fox,False
+,General Dynamics,Common Stock,S&P 100,False,,GD,Ticker,Stock,2000-01-01,NYSE,NYSE.GD,2000-01-01,General Dynamics,False
+,General Electric Co.,Common Stock,S&P 100,False,,GE,Ticker,Stock,2000-01-01,NYSE,NYSE.GE,2000-01-01,General Electric Co.,False
+,Gilead Sciences,Common Stock,S&P 100,False,,GILD,Ticker,Stock,2000-01-01,NYSE,NYSE.GILD,2000-01-01,Gilead Sciences,False
+,General Motors,Common Stock,S&P 100,False,,GM,Ticker,Stock,2000-01-01,NYSE,NYSE.GM,2000-01-01,General Motors,False
+,Alphabet Inc,Common Stock,S&P 100,False,,GOOG,Ticker,Stock,2000-01-01,NYSE,NYSE.GOOG,2000-01-01,Alphabet Inc,False
+,Alphabet Inc,Common Stock,S&P 100,False,,GOOGL,Ticker,Stock,2000-01-01,NYSE,NYSE.GOOGL,2000-01-01,Alphabet Inc,False
+,Goldman Sachs,Common Stock,S&P 100,False,,GS,Ticker,Stock,2000-01-01,NYSE,NYSE.GS,2000-01-01,Goldman Sachs,False
+,Halliburton,Common Stock,S&P 100,False,,HAL,Ticker,Stock,2000-01-01,NYSE,NYSE.HAL,2000-01-01,Halliburton,False
+,Home Depot,Common Stock,S&P 100,False,,HD,Ticker,Stock,2000-01-01,NYSE,NYSE.HD,2000-01-01,Home Depot,False
+,Honeywell,Common Stock,S&P 100,False,,HON,Ticker,Stock,2000-01-01,NYSE,NYSE.HON,2000-01-01,Honeywell,False
+,International Business Machines,Common Stock,S&P 100,False,,IBM,Ticker,Stock,2000-01-01,NYSE,NYSE.IBM,2000-01-01,International Business Machines,False
+,Intel Corporation,Common Stock,S&P 100,False,,INTC,Ticker,Stock,2000-01-01,NYSE,NYSE.INTC,2000-01-01,Intel Corporation,False
+,Johnson & Johnson Inc,Common Stock,S&P 100,False,,JNJ,Ticker,Stock,2000-01-01,NYSE,NYSE.JNJ,2000-01-01,Johnson & Johnson Inc,False
+,JP Morgan Chase & Co,Common Stock,S&P 100,False,,JPM,Ticker,Stock,2000-01-01,NYSE,NYSE.JPM,2000-01-01,JP Morgan Chase & Co,False
+,Kraft Heinz,Common Stock,S&P 100,False,,KHC,Ticker,Stock,2000-01-01,NYSE,NYSE.KHC,2000-01-01,Kraft Heinz,False
+,Kinder Morgan Inc/DE,Common Stock,S&P 100,False,,KMI,Ticker,Stock,2000-01-01,NYSE,NYSE.KMI,2000-01-01,Kinder Morgan Inc/DE,False
+,The Coca-Cola Company,Common Stock,S&P 100,False,,KO,Ticker,Stock,2000-01-01,NYSE,NYSE.KO,2000-01-01,The Coca-Cola Company,False
+,Eli Lilly and Company,Common Stock,S&P 100,False,,LLY,Ticker,Stock,2000-01-01,NYSE,NYSE.LLY,2000-01-01,Eli Lilly and Company,False
+,Lockheed-Martin,Common Stock,S&P 100,False,,LMT,Ticker,Stock,2000-01-01,NYSE,NYSE.LMT,2000-01-01,Lockheed-Martin,False
+,Lowe's,Common Stock,S&P 100,False,,LOW,Ticker,Stock,2000-01-01,NYSE,NYSE.LOW,2000-01-01,Lowe's,False
+,MasterCard Inc,Common Stock,S&P 100,False,,MA,Ticker,Stock,2000-01-01,NYSE,NYSE.MA,2000-01-01,MasterCard Inc,False
+,McDonald's Corp,Common Stock,S&P 100,False,,MCD,Ticker,Stock,2000-01-01,NYSE,NYSE.MCD,2000-01-01,McDonald's Corp,False
+,Mondel_z International,Common Stock,S&P 100,False,,MDLZ,Ticker,Stock,2000-01-01,NYSE,NYSE.MDLZ,2000-01-01,Mondel_z International,False
+,Medtronic Inc.,Common Stock,S&P 100,False,,MDT,Ticker,Stock,2000-01-01,NYSE,NYSE.MDT,2000-01-01,Medtronic Inc.,False
+,Metlife Inc.,Common Stock,S&P 100,False,,MET,Ticker,Stock,2000-01-01,NYSE,NYSE.MET,2000-01-01,Metlife Inc.,False
+,3M Company,Common Stock,S&P 100,False,,MMM,Ticker,Stock,2000-01-01,NYSE,NYSE.MMM,2000-01-01,3M Company,False
+,Altria Group,Common Stock,S&P 100,False,,MO,Ticker,Stock,2000-01-01,NYSE,NYSE.MO,2000-01-01,Altria Group,False
+,Monsanto,Common Stock,S&P 100,False,,MON,Ticker,Stock,2000-01-01,NYSE,NYSE.MON,2000-01-01,Monsanto,False
+,Merck & Co.,Common Stock,S&P 100,False,,MRK,Ticker,Stock,2000-01-01,NYSE,NYSE.MRK,2000-01-01,Merck & Co.,False
+,Morgan Stanley,Common Stock,S&P 100,False,,MS,Ticker,Stock,2000-01-01,NYSE,NYSE.MS,2000-01-01,Morgan Stanley,False
+,Microsoft,Common Stock,S&P 100,False,,MSFT,Ticker,Stock,2000-01-01,NYSE,NYSE.MSFT,2000-01-01,Microsoft,False
+,NextEra Energy,Common Stock,S&P 100,False,,NEE,Ticker,Stock,2000-01-01,NYSE,NYSE.NEE,2000-01-01,NextEra Energy,False
+,Nike,Common Stock,S&P 100,False,,NKE,Ticker,Stock,2000-01-01,NYSE,NYSE.NKE,2000-01-01,Nike,False
+,Oracle Corporation,Common Stock,S&P 100,False,,ORCL,Ticker,Stock,2000-01-01,NYSE,NYSE.ORCL,2000-01-01,Oracle Corporation,False
+,Occidental Petroleum Corp.,Common Stock,S&P 100,False,,OXY,Ticker,Stock,2000-01-01,NYSE,NYSE.OXY,2000-01-01,Occidental Petroleum Corp.,False
+,Priceline Group Inc/The,Common Stock,S&P 100,False,,PCLN,Ticker,Stock,2000-01-01,NYSE,NYSE.PCLN,2000-01-01,Priceline Group Inc/The,False
+,Pepsico Inc.,Common Stock,S&P 100,False,,PEP,Ticker,Stock,2000-01-01,NYSE,NYSE.PEP,2000-01-01,Pepsico Inc.,False
+,Pfizer Inc,Common Stock,S&P 100,False,,PFE,Ticker,Stock,2000-01-01,NYSE,NYSE.PFE,2000-01-01,Pfizer Inc,False
+,Procter & Gamble Co,Common Stock,S&P 100,False,,PG,Ticker,Stock,2000-01-01,NYSE,NYSE.PG,2000-01-01,Procter & Gamble Co,False
+,Phillip Morris International,Common Stock,S&P 100,False,,PM,Ticker,Stock,2000-01-01,NYSE,NYSE.PM,2000-01-01,Phillip Morris International,False
+,PayPal Holdings,Common Stock,S&P 100,False,,PYPL,Ticker,Stock,2000-01-01,NYSE,NYSE.PYPL,2000-01-01,PayPal Holdings,False
+,Qualcomm Inc.,Common Stock,S&P 100,False,,QCOM,Ticker,Stock,2000-01-01,NYSE,NYSE.QCOM,2000-01-01,Qualcomm Inc.,False
+,Raytheon Company,Common Stock,S&P 100,False,,RTN,Ticker,Stock,2000-01-01,NYSE,NYSE.RTN,2000-01-01,Raytheon Company,False
+,Starbucks Corporation,Common Stock,S&P 100,False,,SBUX,Ticker,Stock,2000-01-01,NYSE,NYSE.SBUX,2000-01-01,Starbucks Corporation,False
+,Schlumberger,Common Stock,S&P 100,False,,SLB,Ticker,Stock,2000-01-01,NYSE,NYSE.SLB,2000-01-01,Schlumberger,False
+,Southern Company,Common Stock,S&P 100,False,,SO,Ticker,Stock,2000-01-01,NYSE,NYSE.SO,2000-01-01,Southern Company,False
+,"Simon Property Group, Inc.",Common Stock,S&P 100,False,,SPG,Ticker,Stock,2000-01-01,NYSE,NYSE.SPG,2000-01-01,"Simon Property Group, Inc.",False
+,AT&T Inc,Common Stock,S&P 100,False,,T,Ticker,Stock,2000-01-01,NYSE,NYSE.T,2000-01-01,AT&T Inc,False
+,Target Corp.,Common Stock,S&P 100,False,,TGT,Ticker,Stock,2000-01-01,NYSE,NYSE.TGT,2000-01-01,Target Corp.,False
+,Time Warner Inc.,Common Stock,S&P 100,False,,TWX,Ticker,Stock,2000-01-01,NYSE,NYSE.TWX,2000-01-01,Time Warner Inc.,False
+,Texas Instruments,Common Stock,S&P 100,False,,TXN,Ticker,Stock,2000-01-01,NYSE,NYSE.TXN,2000-01-01,Texas Instruments,False
+,UnitedHealth Group Inc.,Common Stock,S&P 100,False,,UNH,Ticker,Stock,2000-01-01,NYSE,NYSE.UNH,2000-01-01,UnitedHealth Group Inc.,False
+,Union Pacific Corp.,Common Stock,S&P 100,False,,UNP,Ticker,Stock,2000-01-01,NYSE,NYSE.UNP,2000-01-01,Union Pacific Corp.,False
+,United Parcel Service Inc,Common Stock,S&P 100,False,,UPS,Ticker,Stock,2000-01-01,NYSE,NYSE.UPS,2000-01-01,United Parcel Service Inc,False
+,US Bancorp,Common Stock,S&P 100,False,,USB,Ticker,Stock,2000-01-01,NYSE,NYSE.USB,2000-01-01,US Bancorp,False
+,United Technologies Corp,Common Stock,S&P 100,False,,UTX,Ticker,Stock,2000-01-01,NYSE,NYSE.UTX,2000-01-01,United Technologies Corp,False
+,Visa Inc.,Common Stock,S&P 100,False,,V,Ticker,Stock,2000-01-01,NYSE,NYSE.V,2000-01-01,Visa Inc.,False
+,Verizon Communications Inc,Common Stock,S&P 100,False,,VZ,Ticker,Stock,2000-01-01,NYSE,NYSE.VZ,2000-01-01,Verizon Communications Inc,False
+,Walgreens Boots Alliance,Common Stock,S&P 100,False,,WBA,Ticker,Stock,2000-01-01,NYSE,NYSE.WBA,2000-01-01,Walgreens Boots Alliance,False
+,Wells Fargo,Common Stock,S&P 100,False,,WFC,Ticker,Stock,2000-01-01,NYSE,NYSE.WFC,2000-01-01,Wells Fargo,False
+,Wal-Mart,Common Stock,S&P 100,False,,WMT,Ticker,Stock,2000-01-01,NYSE,NYSE.WMT,2000-01-01,Wal-Mart,False
+,Exxon Mobil Corp,Common Stock,S&P 100,False,,XOM,Ticker,Stock,2000-01-01,NYSE,NYSE.XOM,2000-01-01,Exxon Mobil Corp,False
+,S&P 100 Index,Index,S&P 100,True,,OEX,Ticker,Index,2000-01-01,NYSE,NYSE.OEX,2000-01-01,S&P 100 Index,False
+,iShares S&P 100,ETF,S&P 100,False,,OEF,Ticker,ETF,2000-01-01,NYSE,NYSE.OEF,2000-01-01,iShares S&P 100,False
+,Guggenheim S&P 100,ETF,S&P 100,False,,OEW,Ticker,ETF,2000-01-01,NYSE,NYSE.OEW,2000-01-01,Guggenheim S&P 100,False
+,US TBill 182D 20170720,US Treasuries,,False,,912796MK2,CUSIP,Bond,2017-09-01,US,US.912796MK2,2017-07-20,US Treasury,False
+,US TBill 28D 20170810,US Treasuries,,False,,912796NR6 ,CUSIP,Bond,2017-09-01,US,US.912796NR6 ,2017-08-10,US Treasury,False
+,US TBill 28D 20170817,US Treasuries,,False,,912796NS4,CUSIP,Bond,2017-09-01,US,US.912796NS4,2017-08-17,US Treasury,False
+,US TBill 91D 20171019,US Treasuries,,False,,912796PB9,CUSIP,Bond,2017-09-01,US,US.912796PB9,2017-10-19,US Treasury,False
+,10Y TIPS 20180131,US Treasuries,,False,,9128283R9 ,CUSIP,Bond,2017-09-01,US,US.9128283R9 ,2018-01-31,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828HN3,CUSIP,Bond,2017-09-01,US,US.912828HN3,2008-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828UX6,CUSIP,Bond,2017-09-01,US,US.912828UX6,2013-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828JE1,CUSIP,Bond,2017-09-01,US,US.912828JE1,2008-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828JX9,CUSIP,Bond,2017-09-01,US,US.912828JX9,2009-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828C99,CUSIP,Bond,2017-09-01,US,US.912828C99,2014-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828LA6,CUSIP,Bond,2017-09-01,US,US.912828LA6,2009-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828MF4,CUSIP,Bond,2017-09-01,US,US.912828MF4,2010-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828K33,CUSIP,Bond,2017-09-01,US,US.912828K33,2015-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828NM8,CUSIP,Bond,2017-09-01,US,US.912828NM8,2010-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828PP9,CUSIP,Bond,2017-09-01,US,US.912828PP9,2011-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828Q60,CUSIP,Bond,2017-09-01,US,US.912828Q60,2016-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828QV5,CUSIP,Bond,2017-09-01,US,US.912828QV5,2011-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828SA9,CUSIP,Bond,2017-09-01,US,US.912828SA9,2012-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828X39,CUSIP,Bond,2017-09-01,US,US.912828X39,2017-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828TE0,CUSIP,Bond,2017-09-01,US,US.912828TE0,2012-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828UH1,CUSIP,Bond,2017-09-01,US,US.912828UH1,2013-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828VM9,CUSIP,Bond,2017-09-01,US,US.912828VM9,2013-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828B25,CUSIP,Bond,2017-09-01,US,US.912828B25,2014-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828WU0,CUSIP,Bond,2017-09-01,US,US.912828WU0,2014-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828H45,CUSIP,Bond,2017-09-01,US,US.912828H45,2015-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810FR4,CUSIP,Bond,2017-09-01,US,US.912810FR4,2004-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828XL9,CUSIP,Bond,2017-09-01,US,US.912828XL9,2015-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828N71,CUSIP,Bond,2017-09-01,US,US.912828N71,2016-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810FS2,CUSIP,Bond,2017-09-01,US,US.912810FS2,2006-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828S50,CUSIP,Bond,2017-09-01,US,US.912828S50,2016-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912828V49,CUSIP,Bond,2017-09-01,US,US.912828V49,2017-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810PS1,CUSIP,Bond,2017-09-01,US,US.912810PS1,2007-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,9128282L3,CUSIP,Bond,2017-09-01,US,US.9128282L3,2017-07-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810PV4,CUSIP,Bond,2017-09-01,US,US.912810PV4,2008-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810FD5,CUSIP,Bond,2017-09-01,US,US.912810FD5,1998-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810PZ5,CUSIP,Bond,2017-09-01,US,US.912810PZ5,2009-01-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810FH6,CUSIP,Bond,2017-09-01,US,US.912810FH6,1999-04-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810FQ6,CUSIP,Bond,2017-09-01,US,US.912810FQ6,2001-10-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810QF8,CUSIP,Bond,2017-09-01,US,US.912810QF8,2010-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810QP6,CUSIP,Bond,2017-09-01,US,US.912810QP6,2011-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810QV3,CUSIP,Bond,2017-09-01,US,US.912810QV3,2012-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810RA8,CUSIP,Bond,2017-09-01,US,US.912810RA8,2013-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810RF7,CUSIP,Bond,2017-09-01,US,US.912810RF7,2014-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810RL4,CUSIP,Bond,2017-09-01,US,US.912810RL4,2015-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810RR1,CUSIP,Bond,2017-09-01,US,US.912810RR1,2016-02-15,US Treasury,False
+,US TIPS  @ ,US Treasuries,,False,,912810RW0,CUSIP,Bond,2017-09-01,US,US.912810RW0,2017-02-15,US Treasury,False
+,iShares Core Canadian Universe Bond Index ETF,ETF,,False,,XBB,Ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XBB",2000-11-20,BlackRock Inc,False
+,iShares Core Canadian Short Term Bond Index ETF,ETF,,False,,XSB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XSB",2000-11-20,BlackRock Inc,False
+,iShares Canadian Corporate Bond Index ETF,ETF,,False,,XCB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XCB",2006-11-06,BlackRock Inc,False
+,iShares 1-5 Year Laddered Corporate Bond Index ETF,ETF,,False,,CBO,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,CBO",2009-02-25,BlackRock Inc,False
+,iShares Core Canadian Short Term Corporate + Maple Bond Index ETF,ETF,,False,,XSH,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XSH",2011-09-13,BlackRock Inc,False
+,iShares 1-5 Year Laddered Government Bond Index ETF,ETF,,False,,CLF,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,CLF",2008-01-31,BlackRock Inc,False
+,iShares High Quality Canadian Bond Index ETF,ETF,,False,,XQB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XQB",2009-11-19,BlackRock Inc,False
+,iShares Canadian HYBrid Corporate Bond Index ETF,ETF,,False,,XHB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XHB",2010-09-22,BlackRock Inc,False
+,iShares Floating Rate Index ETF,ETF,,False,,XFR,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XFR",2011-12-06,BlackRock Inc,False
+,iShares Canadian Real Return Bond Index ETF,ETF,,False,,XRB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XRB",2005-12-19,BlackRock Inc,False
+,iShares Canadian Government Bond Index ETF,ETF,,False,,XGB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XGB",2006-11-06,BlackRock Inc,False
+,iShares Core Canadian Long Term Bond Index ETF,ETF,,False,,XLB,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XLB",2006-11-06,BlackRock Inc,False
+,iShares 1-10 Year Laddered Corporate Bond Index ETF,ETF,,False,,CBH,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,CBH",2011-10-20,BlackRock Inc,False
+,iShares 1-10 Year Laddered Government Bond Index ETF,ETF,,False,,CLG,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,CLG",2011-10-20,BlackRock Inc,False
+,iShares Convertible Bond Index ETF,ETF,,False,,CVD,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,CVD",2011-06-14,BlackRock Inc,False
+,iShares Short Term High Quality Canadian Bond Index ETF,ETF,,False,,XSQ,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,XSQ",2014-07-15,BlackRock Inc,False
+,iShares Premium Money Market ETF,ETF,,False,,CMR,ticker,ETF - Fixed Income,2017-09-01,TSX,"TSX,CMR",2008-02-19,BlackRock Inc,False
+,BMO US Equity Plus Advisor,Mutual Fund,,False,,BMOUSEQPLAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQPLAD,2010-01-01,Bank of Montreal,False
+,BMO US Equity Plus A,Mutual Fund,,False,,BMOUSEQPLA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQPLA,2010-01-01,Bank of Montreal,False
+,BMO US Equity F,Mutual Fund,,False,,BMOUSEQF,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQF,2010-01-01,Bank of Montreal,False
+,BMO US Equity Class Advisor,Mutual Fund,,False,,BMOUSEQCA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQCA,2010-01-01,Bank of Montreal,False
+,BMO US Equity Advisor,Mutual Fund,,False,,BMOUSEQAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQAD,2010-01-01,Bank of Montreal,False
+,BMO US Equity A,Mutual Fund,,False,,BMOUSEQA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQA,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Monthly Income T6,Mutual Fund,,False,,BMOUSDMIT6,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMIT6,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Monthly Income T5,Mutual Fund,,False,,BMOUSDMIT5,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMIT5,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Monthly Income F,Mutual Fund,,False,,BMOUSDMIF,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMIF,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Monthly Income D,Mutual Fund,,False,,BMOUSDMID,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMID,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Monthly Income Advisor,Mutual Fund,,False,,BMOUSDMIAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMIAD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Monthly Income A,Mutual Fund,,False,,BMOUSDMIA ,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMIA ,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Money Market D,Mutual Fund,,False,,BMOUSDMMD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMMD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Money Market Classic,Mutual Fund,,False,,BMOUSDMMC,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMMC,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Money Market Advisor,Mutual Fund,,False,,BMOUSDMMAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMMAD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Money Market A,Mutual Fund,,False,,BMOUSDMMA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDMMA,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Equity Index D,Mutual Fund,,False,,BMOUSEQINDD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQINDD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Equity Index A,Mutual Fund,,False,,BMOUSEQINDA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSEQINDA,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Dividend F,Mutual Fund,,False,,BMOUSDIVF,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDIVF,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Dividend D,Mutual Fund,,False,,BMOUSDIVD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDIVD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Dividend Adv,Mutual Fund,,False,,BMOUSDIVAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDIVAD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Dividend A,Mutual Fund,,False,,BMOUSDDIVA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSDDIVA,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Balanced F,Mutual Fund,,False,,BMOUSBALF,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSBALF,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Balanced D,Mutual Fund,,False,,BMOUSBALD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSBALD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Balanced Advisor,Mutual Fund,,False,,BMOUSBALAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSBALAD,2010-01-01,Bank of Montreal,False
+,BMO US Dollar Balanced A,Mutual Fund,,False,,BMOUSBALA,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSBALA,2010-01-01,Bank of Montreal,False
+,BMO Tactical Global Equity ETF F,Mutual Fund,,False,,BMOGLEQF,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLEQF,2010-01-01,Bank of Montreal,False
+,BMO Tactical Global Equity ETF Advisor,Mutual Fund,,False,,BMOGLEQAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLEQAD,2010-01-01,Bank of Montreal,False
+,BMO Tactical Global Bond ETF F,Mutual Fund,,False,,BMOGLBNDF,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLBNDF,2010-01-01,Bank of Montreal,False
+,BMO Tactical Global Bond ETF Advisor,Mutual Fund,,False,,BMOGLBNDAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLBNDAD,2010-01-01,Bank of Montreal,False
+,BMO Tactical Global Asset Alloc ETF F,Mutual Fund,,False,,BMOGLAAF,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLAAF,2010-01-01,Bank of Montreal,False
+,BMO Tactical Global Asset Alloc ETF Adv,Mutual Fund,,False,,BMOGLAAA,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLAAA,2010-01-01,Bank of Montreal,False
+,BMO Resource Advisor,Mutual Fund,,False,,BMOUSRESAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOUSRESAD,2010-01-01,Bank of Montreal,False
+,BMO North American Dividend F,Mutual Fund,,False,,BMONADIVF,MF ID,Mutual Fund,2017-09-01,,MF.BMONADIVF,2010-01-01,Bank of Montreal,False
+,BMO North American Dividend Advisor,Mutual Fund,,False,,BMONADIVAD,MF ID,Mutual Fund,2017-09-01,,MF.BMONADIVAD,2010-01-01,Bank of Montreal,False
+,BMO North American Dividend A,Mutual Fund,,False,,BMONADIVA ,MF ID,Mutual Fund,2017-09-01,,MF.BMONADIVA ,2010-01-01,Bank of Montreal,False
+,BMO Global Small Cap F,Mutual Fund,,False,,BMOGLSMCF,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLSMCF,2010-01-01,Bank of Montreal,False
+,BMO Global Small Cap Advisor,Mutual Fund,,False,,BMOGLSMCAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLSMCAD,2010-01-01,Bank of Montreal,False
+,BMO Global Growth and Income T5,Mutual Fund,,False,,BMOGLGIT5,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLGIT5,2010-01-01,Bank of Montreal,False
+,BMO Global Growth and Income F,Mutual Fund,,False,,BMOGLGIF,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLGIF,2010-01-01,Bank of Montreal,False
+,BMO Global Growth and Income Adv,Mutual Fund,,False,,BMOGLFIAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLFIAD,2010-01-01,Bank of Montreal,False
+,BMO Global Dividend F,Mutual Fund,,False,,BMOGLDIVF,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLDIVF,2010-01-01,Bank of Montreal,False
+,BMO Global Dividend Class T5,Mutual Fund,,False,,BMOGLDIVT5,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLDIVT5,2010-01-01,Bank of Montreal,False
+,BMO Global Dividend Class Advisor,Mutual Fund,,False,,BMOGLDIVCAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLDIVCAD,2010-01-01,Bank of Montreal,False
+,BMO Global Dividend Advisor,Mutual Fund,,False,,BMOGLDIVAD,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLDIVAD,2010-01-01,Bank of Montreal,False
+,BMO Global Dividend A,Mutual Fund,,False,,BMOGLDIVA,MF ID,Mutual Fund,2017-09-01,,MF.BMOGLDIVA,2010-01-01,Bank of Montreal,False

@@ -1,0 +1,208 @@
+CATEGORY,DESCRIPTION,EFFECTIVE_DATE,EVENT_TYPE_ID,EXTERNAL_ID,LIFE_EVENT_INDICATOR,NAME,PROOF_POSITIVE_INDICATOR,PROOF_POSITIVE_OF_EVENT,SOURCE,SUNSET_DATE,SUNSET_INDICATOR
+Life,,2000-01-01,LFE_ATTRITION,LFE_ATTRITION,True,Attrition,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_NEW_CHILD,LFE_NEW_CHILD,True,Birth of Child ,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_COLLEGE_ENTER,LFE_COLLEGE_ENTER,True,College: enter,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_COLLEGE_EXIT,LFE_COLLEGE_EXIT,True,College: exit,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_DEATH,LFE_DEATH,True,Death,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_DEATH_BEREAVMENT,LFE_DEATH_BEREAVMENT,True,Bereavement,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_DIVORCE,LFE_DIVORCE,True,Divorce,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_ENGAGEMENT,LFE_ENGAGEMENT,True,Engagement,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_INSIDER_WINDOW_XPRY,LFE_INSIDER_WINDOW_XPRY,True,Expiration of window period for insiders,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_HOME_PURCHASE,LFE_HOME_PURCHASE,True,Home purchase,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_WINDFALL,LFE_WINDFALL,True,Inheritance / windfall,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_JOB_CHANGE,LFE_JOB_CHANGE,True,Job Change,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_LARGE_PURCHASE,LFE_LARGE_PURCHASE,True,Large purchase,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_MARRIAGE,LFE_MARRIAGE,True,Marriage,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_PREGNANCY,LFE_PREGNANCY,True,Pregnancy in household,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_RELOCATION,LFE_RELOCATION,True,Relocation,False,,Life Financial Events,,False
+Life,,2000-01-01,LFE_RETIREMENT,LFE_RETIREMENT,True,Retirement,False,,Life Financial Events,,False
+Transfers,,2000-01-01,XFER_FUNDS_OUT_LARGE,XFER_FUNDS_OUT_LARGE,False,70% deccumulation,True,LFE_ATTRITION,Tracking Events,,False
+Transfers,,2000-01-01,XFER_FUNDS_IN,XFER_FUNDS_IN,False,Funds Transfer In,False,,Tracking Events,,False
+Transfers,,2000-01-01,XFER_FUNDS_OUT,XFER_FUNDS_OUT,False,Funds Transfer Out,False,,Tracking Events,,False
+Transfers,,2000-01-01,XFER_FUNDS_OUT_REC,XFER_FUNDS_OUT_REC,False,Funds Recurring Transfer Out,False,,Tracking Events,,False
+Transfers,,2000-01-01,XFER_FUNDS_IN_REC,XFER_FUNDS_IN_REC,False,Funds Recurring Transfer In ,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_OPEN_*,ACNT_SEC_OPEN_*,False,Open Securities Account,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_OPEN_INDV,ACNT_SEC_OPEN_INDV,False,Individual,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_OPEN_RETIRE,ACNT_SEC_OPEN_RETIRE,False,"Retirement Plan (e.g. Keogh, SEP)",False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_OPEN_ESTATE_PROBATE,ACNT_SEC_OPEN_ESTATE_PROBATE,False,Probated Estate,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_OPEN_529,ACNT_SEC_OPEN_529,False,Educational 529,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_CLOSE_*,ACNT_SEC_CLOSE_*,False,Close Securities Account,True,LFE_ATTRITION,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_INDV_TO_JOINT,ACNT_SEC_INDV_TO_JOINT,False,Change Individual  to Joint,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SEC_CHG_JOINT_TO_INDV,ACNT_SEC_CHG_JOINT_TO_INDV,False,Change Joint to Individual,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_CHK_OPEN,ACNT_CHK_OPEN,False,Open Checking Account  (Bank) or Cash Management Account (Broker),False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_CHK_CLOSE,ACNT_CHK_CLOSE,False,Close Checking Account (Bank) or Cash Management Account (Broker),False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SAV_OPEN,ACNT_SAV_OPEN,False,Open Savings Account,False,,Tracking Events,,False
+Accounts,,2000-01-01,ACNT_SAV_CLOSE,ACNT_SAV_CLOSE,False,Close Savings Account,False,,Tracking Events,,False
+Account Change,,2000-01-01,ACNT_CHG_INCOME,ACNT_CHG_INCOME,False,Change income,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_SEC_IRA_WITHDRAWL,XCT_SEC_IRA_WITHDRAWL,False,IRA Withdrawal before Retirement,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_SEC_IRA_AUTORMD,XCT_SEC_IRA_AUTORMD,False,Sign up for Auto RMD,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_SEC_IRA_FIRST_WITHDRAWL,XCT_SEC_IRA_FIRST_WITHDRAWL,False,Begin IRA Withdrawals,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_SEC_401K_LOAN,XCT_SEC_401K_LOAN,False,401k Loan Initiation,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_SEC_529_FIRST_WITHDRAWL,XCT_SEC_529_FIRST_WITHDRAWL,False,Initial 529 Withrawal,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_MORTGAGE_APP,XCT_MORTGAGE_APP,False,Mortgage Application,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_MORTGAGE_NEW,XCT_MORTGAGE_NEW,False,Mortgage Underwriting,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_CHG_MORTGAGE_PAYMENT,XCT_CHG_MORTGAGE_PAYMENT,False,Mortgage Payment Change,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_CHG_PAYROLL,XCT_CHG_PAYROLL,False,Payroll Change,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_LARGE_DEPOSIT,XCT_LARGE_DEPOSIT,False,Large Deposit,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_LARGE_WITHDRAWL,XCT_LARGE_WITHDRAWL,False,Large Withdrawl,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_LARGE_LIQUIDATION,XCT_LARGE_LIQUIDATION,False,Large Securities Liquidation,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_EQ_BUY,XCT_EQ_BUY,False,Equity buy,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_EQ_SELL,XCT_EQ_SELL,False,Equity sale,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_FI_BUY,XCT_FI_BUY,False,FI buy,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_FI_SELL,XCT_FI_SELL,False,FI sale,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_OPT_BUY,XCT_OPT_BUY,False,Option buy,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_OPT_SELL,XCT_OPT_SELL,False,Option sell,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_FUND_BUY,XCT_FUND_BUY,False,Fund buy,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_FUND_SELL,XCT_FUND_SELL,False,Fund sell,False,,Tracking Events,,False
+Transactions,,2000-01-01,XCT_FINPLAN,XCT_FINPLAN,False,Financial Plan,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_LOGIN_WEB,INT_LOGIN_WEB,False,Login web,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_LOGIN_MOBILE,INT_LOGIN_MOBILE,False,Login mobile,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_OTHER_PHYSICAL,INT_OTHER_PHYSICAL,False,Physical visit - Other,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CALL_IN,INT_CALL_IN,False,Inbound call,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CAL_OUT,INT_CAL_OUT,False,Outbound call,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_EMAIL_IN,INT_EMAIL_IN,False,Email Received,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CHAT,INT_CHAT,False,Chat,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_SMS,INT_SMS,False,Text,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CHK_BAL,INT_CHK_BAL,False,Check Balance,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CHK_STATEMENTS,INT_CHK_STATEMENTS,False,View Statements,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CHK_CONFIRMS,INT_CHK_CONFIRMS,False,View Trade Confirms,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_CHK_TAX,INT_CHK_TAX,False,View Tax Statements,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_MODEL_MORTGAGE,INT_MODEL_MORTGAGE,False,Model mortgage,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_BAL_XFER,INT_BAL_XFER,False,Balance transfer,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_APPLY_MORTGAGE,INT_APPLY_MORTGAGE,False,Mortgage or Refinance,False,,Tracking Events,,False
+Interactions,,2000-01-01,INT_APPLY_LOAN,INT_APPLY_LOAN,False,Apply for an auto loan,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_1,BIRTHDAY_1,False,1,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_2,BIRTHDAY_2,False,2,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_3,BIRTHDAY_3,False,3,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_4,BIRTHDAY_4,False,4,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_5,BIRTHDAY_5,False,5,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_6,BIRTHDAY_6,False,6,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_7,BIRTHDAY_7,False,7,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_8,BIRTHDAY_8,False,8,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_9,BIRTHDAY_9,False,9,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_10,BIRTHDAY_10,False,10,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_11,BIRTHDAY_11,False,11,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_12,BIRTHDAY_12,False,12,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_13,BIRTHDAY_13,False,13,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_14,BIRTHDAY_14,False,14,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_15,BIRTHDAY_15,False,15,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_16,BIRTHDAY_16,False,16,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_17,BIRTHDAY_17,False,17,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_18,BIRTHDAY_18,False,18,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_19,BIRTHDAY_19,False,19,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_20,BIRTHDAY_20,False,20,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_21,BIRTHDAY_21,False,21,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_22,BIRTHDAY_22,False,22,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_23,BIRTHDAY_23,False,23,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_24,BIRTHDAY_24,False,24,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_25,BIRTHDAY_25,False,25,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_26,BIRTHDAY_26,False,26,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_27,BIRTHDAY_27,False,27,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_28,BIRTHDAY_28,False,28,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_29,BIRTHDAY_29,False,29,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_30,BIRTHDAY_30,False,30,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_31,BIRTHDAY_31,False,31,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_32,BIRTHDAY_32,False,32,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_33,BIRTHDAY_33,False,33,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_34,BIRTHDAY_34,False,34,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_35,BIRTHDAY_35,False,35,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_36,BIRTHDAY_36,False,36,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_37,BIRTHDAY_37,False,37,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_38,BIRTHDAY_38,False,38,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_39,BIRTHDAY_39,False,39,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_40,BIRTHDAY_40,False,40,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_41,BIRTHDAY_41,False,41,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_42,BIRTHDAY_42,False,42,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_43,BIRTHDAY_43,False,43,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_44,BIRTHDAY_44,False,44,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_45,BIRTHDAY_45,False,45,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_46,BIRTHDAY_46,False,46,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_47,BIRTHDAY_47,False,47,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_48,BIRTHDAY_48,False,48,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_49,BIRTHDAY_49,False,49,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_50,BIRTHDAY_50,False,50,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_51,BIRTHDAY_51,False,51,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_52,BIRTHDAY_52,False,52,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_53,BIRTHDAY_53,False,53,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_54,BIRTHDAY_54,False,54,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_55,BIRTHDAY_55,False,55,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_56,BIRTHDAY_56,False,56,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_57,BIRTHDAY_57,False,57,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_58,BIRTHDAY_58,False,58,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_59,BIRTHDAY_59,False,59,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_60,BIRTHDAY_60,False,60,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_61,BIRTHDAY_61,False,61,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_62,BIRTHDAY_62,False,62,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_63,BIRTHDAY_63,False,63,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_64,BIRTHDAY_64,False,64,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_65,BIRTHDAY_65,False,65,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_66,BIRTHDAY_66,False,66,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_67,BIRTHDAY_67,False,67,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_68,BIRTHDAY_68,False,68,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_69,BIRTHDAY_69,False,69,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_70,BIRTHDAY_70,False,70,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_71,BIRTHDAY_71,False,71,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_72,BIRTHDAY_72,False,72,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_73,BIRTHDAY_73,False,73,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_74,BIRTHDAY_74,False,74,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_75,BIRTHDAY_75,False,75,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_76,BIRTHDAY_76,False,76,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_77,BIRTHDAY_77,False,77,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_78,BIRTHDAY_78,False,78,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_79,BIRTHDAY_79,False,79,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_80,BIRTHDAY_80,False,80,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_81,BIRTHDAY_81,False,81,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_82,BIRTHDAY_82,False,82,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_83,BIRTHDAY_83,False,83,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_84,BIRTHDAY_84,False,84,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_85,BIRTHDAY_85,False,85,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_86,BIRTHDAY_86,False,86,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_87,BIRTHDAY_87,False,87,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_88,BIRTHDAY_88,False,88,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_89,BIRTHDAY_89,False,89,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_90,BIRTHDAY_90,False,90,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_91,BIRTHDAY_91,False,91,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_92,BIRTHDAY_92,False,92,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_93,BIRTHDAY_93,False,93,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_94,BIRTHDAY_94,False,94,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_95,BIRTHDAY_95,False,95,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_96,BIRTHDAY_96,False,96,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_97,BIRTHDAY_97,False,97,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_98,BIRTHDAY_98,False,98,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_99,BIRTHDAY_99,False,99,False,,Tracking Events,,False
+Birthday,,2000-01-01,BIRTHDAY_100,BIRTHDAY_100,False,100,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_ADOPTION,MENTION_LFE_ADOPTION,False,Adoption,True,LFE_NEW_CHILD,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_ATTRITION,MENTION_LFE_ATTRITION,False,Attrition,True,LFE_ATTRITION,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_NEW_CHILD,MENTION_LFE_NEW_CHILD,False,Birth of Child ,True,LFE_NEW_CHILD,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_COHABIT,MENTION_LFE_COHABIT,False,Cohabitation,True,LFE_RELOCATION,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_COLLEGE_ENTER,MENTION_LFE_COLLEGE_ENTER,False,College: enter,True,LFE_COLLEGE_ENTER,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_COLLEGE_EXIT,MENTION_LFE_COLLEGE_EXIT,False,College: exit,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_DEATH_SELF,MENTION_LFE_DEATH_SELF,False,Death,True,LFE_DEATH,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_DIVORCE,MENTION_LFE_DIVORCE,False,Divorce,True,LFE_DIVORCE,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_ELDER_CARE,MENTION_LFE_ELDER_CARE,False,Elder care,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_END_OF_LIFE,MENTION_LFE_END_OF_LIFE,False,End of life planning,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_ENGAGEMENT,MENTION_LFE_ENGAGEMENT,False,Engagement,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_GRADUATION,MENTION_LFE_GRADUATION,False,Graduation,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_GRANDPARENT,MENTION_LFE_GRANDPARENT,False,Grandparency,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_HOME_PURCHASE,MENTION_LFE_HOME_PURCHASE,False,Home purchase,True,LFE_HOME_PURCHASE,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_WINDFALL,MENTION_LFE_WINDFALL,False,Inheritance / windfall,True,LFE_WINDFALL,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_JOB_CHANGE,MENTION_LFE_JOB_CHANGE,False,Job Change,True,LFE_JOB_CHANGE,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_LARGE_PURCHASE,MENTION_LFE_LARGE_PURCHASE,False,Large purchase,True,LFE_LARGE_PURCHASE,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_MARRIAGE,MENTION_LFE_MARRIAGE,False,Marriage,True,LFE_MARRIAGE,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_PROMOTION,MENTION_LFE_PROMOTION,False,Promotion / advancement,True,LFE_JOB_CHANGE,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_RELOCATION,MENTION_LFE_RELOCATION,False,Relocation,True,LFE_RELOCATION,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_RETIREMENT,MENTION_LFE_RETIREMENT,False,Retirement,True,LFE_RETIREMENT,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_GOLDE_YEARS,MENTION_LFE_GOLDE_YEARS,False,Golden Yearts,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_HOME_SALE,MENTION_LFE_HOME_SALE,False,Sale of business,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_BIZ_SALE,MENTION_LFE_BIZ_SALE,False,Sale of home,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_SIGNIFICANT_SALE,MENTION_LFE_SIGNIFICANT_SALE,False,Sale of significant assets,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_PURCHASE_CAR,MENTION_LFE_PURCHASE_CAR,False,Buying a car,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_EMPTYING_NEST,MENTION_LFE_EMPTYING_NEST,False,Child leaves home,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_NAT_DISASTER,MENTION_LFE_NAT_DISASTER,False,Current Natural Disaster,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_EMPTY_NEST,MENTION_LFE_EMPTY_NEST,False,Empty nest,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_ENGAGEMENT_HOUSEHOLD,MENTION_LFE_ENGAGEMENT_HOUSEHOLD,False,Engagement of loved one,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_AGE_OF_DISBURSEMENT,MENTION_LFE_AGE_OF_DISBURSEMENT,False,Living in retirement,True,LFE_RETIREMENT,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_LONG_TERM_TRAVEL,MENTION_LFE_LONG_TERM_TRAVEL,False,Extended travel,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LOOK_NEW_AD,MENTION_LFE_ATTRITION,False,Looking for a new advisor,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_SAVING_COLLEGE,MENTION_LFE_SAVING_COLLEGE,False,Saving for education,False,,Tracking Events,,False
+Mentions,,2000-01-01,MENTION_LFE_WILL,MENTION_LFE_WILL,False,Will creation,False,,Tracking Events,,False
