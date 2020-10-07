@@ -1,8 +1,10 @@
+# Run the the script with this command `python3 1_customer_cleanup.py`
 import re
 import csv
 import time
 
 def openfile(filename):
+    #New file that will be created with cleaned up data
     with open(filename, encoding='utf-8') as r, open('Datasets-cleaned/customer_clean.csv', 'w', newline='', encoding='utf-8') as w:
         reader = csv.DictReader(r)
         # Add all the attributes required in the new file in the array below.
@@ -139,4 +141,5 @@ def openfile(filename):
 def cleanup(row):
     return row
 
+#File that needs to be cleaned
 openfile('sample-inputs/customer.csv')
