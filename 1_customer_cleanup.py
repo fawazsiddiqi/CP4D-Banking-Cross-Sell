@@ -5,6 +5,7 @@ import time
 def openfile(filename):
     with open(filename, encoding='utf-8') as r, open('Datasets-cleaned/customer_clean.csv', 'w', newline='', encoding='utf-8') as w:
         reader = csv.DictReader(r)
+        # Add all the attributes required in the new file in the array below.
         header = [
             'ACQUISITION_COST',
             'ADDRESS_HOME_CITY',
@@ -79,7 +80,9 @@ def openfile(filename):
             'WALLET_SHARE_PERCENTAGE']
         writer = csv.DictWriter(w, fieldnames=header)
         writer.writeheader()
-        e = ['DEATH_YEAR', 
+        # Add all the attributes that need to be eliminated in the array below. 
+        excluded_columns = [
+            'DEATH_YEAR', 
             'DEBT_SERVICE_COVERAGE_RATIO', 
             'LIFE_CYCLE_STATUS_CHANGE_REASON',
             'LIFE_CYCLE_STATUS_CODE',
@@ -128,8 +131,8 @@ def openfile(filename):
             'YOUNGEST_DEPENDENT_ADULT_BIRTH_YEAR', 
             'YOUNGEST_DEPENDENT_CHILD_BIRTH_YEAR']
         for row in reader:
-            for i in e:
-                row.pop(i)
+            for col in excluded_columns:
+                row.pop(col)
             row = cleanup(row)
             writer.writerow(row)
 
