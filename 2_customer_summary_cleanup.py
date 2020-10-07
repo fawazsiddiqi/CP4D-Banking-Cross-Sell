@@ -1,4 +1,4 @@
-# Run the the script with this command `python3 1_customer_cleanup.py`
+# Run the the script with this command `python3 2_customer_summary_cleanup.py`
 import re
 import csv
 import time
