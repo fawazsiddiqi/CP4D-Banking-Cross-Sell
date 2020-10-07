@@ -1,11 +1,11 @@
-# Run the the script with this command `python3 2_customer_summary_cleanup.py`
+# Run the the script with this command `python3 3_customer_product_summary_cleanup.py`
 import re
 import csv
 import time
 
 def openfile(filename):
     #New file that will be created with cleaned up data
-    with open(filename, encoding='utf-8') as r, open('Datasets-cleaned/customer_product_summary_clean.csv', 'w', newline='', encoding='utf-8') as w:
+    with open(filename, encoding='utf-8') as r, open('Dataset-Final/customer_product_summary_clean.csv', 'w', newline='', encoding='utf-8') as w:
         reader = csv.DictReader(r)
         # Add all the attributes required in the new file in the array below.
         header = [
@@ -17,15 +17,8 @@ def openfile(filename):
             'INTEREST_INCOME',
             'LAST_CUSTOMER_REPLIED_TO_OFFER_INDICATOR',
             'LAST_CUSTOMER_REPLY_TIME',
-            'LAST_INBOUND_COMMUNICATION_DATE',
-            'LAST_INBOUND_COMMUNICATION_ID',
-            'LAST_OUTBOUND_COMMUNICATION_DATE',
-            'LAST_OUTBOUND_COMMUNICATION_ID',
             'LAST_PRODUCT_OFFER_CAMPAIGN',
             'LAST_PRODUCT_OFFER_DATE',
-            'MANAGEMENT_FEES',
-            'OTHER_NON_INTEREST_EXPENSE',
-            'OTHER_NON_INTEREST_INCOME',
             'PRODUCT_ID',
             'PRODUCT_OFFERED_INDICATOR',
             'PRODUCT_OWNED_INDICATOR',
@@ -33,10 +26,7 @@ def openfile(filename):
             'START_DATE',
             'STATUS',
             'STATUS_DATE',
-            'STATUS_REASON',
-            'WAIVED_INTEREST_EXPENSE',
-            'WAIVED_INTEREST_INCOME',
-            'WAIVED_NON_INTEREST_EXPENSE'
+            'STATUS_REASON'
             ]
         writer = csv.DictWriter(w, fieldnames=header)
         writer.writeheader()
@@ -48,6 +38,13 @@ def openfile(filename):
             'LATEST_SENTIMENT_SCORE',
             'LIFETIME_VALUE',
             'LIQUID_NET_WORTH',
+            'LAST_INBOUND_COMMUNICATION_DATE',
+            'LAST_INBOUND_COMMUNICATION_ID',
+            'LAST_OUTBOUND_COMMUNICATION_DATE',
+            'LAST_OUTBOUND_COMMUNICATION_ID',
+            'MANAGEMENT_FEES',
+            'OTHER_NON_INTEREST_EXPENSE',
+            'OTHER_NON_INTEREST_INCOME',
             'NUMBER_OF_ACCOUNTS',
             'NUMBER_OF_ACTIVE_ACCOUNTS',
             'NUMBER_OF_CALLS',
@@ -116,7 +113,10 @@ def openfile(filename):
             'USER_DEFINED_STRING_3',
             'USER_DEFINED_STRING_4',
             'USER_DEFINED_STRING_5',
-            'WAIVED_FEES']
+            'WAIVED_FEES',
+            'WAIVED_INTEREST_EXPENSE',
+            'WAIVED_INTEREST_INCOME',
+            'WAIVED_NON_INTEREST_EXPENSE']
         for row in reader:
             for col in excluded_columns:
                 row.pop(col)
