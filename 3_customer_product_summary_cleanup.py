@@ -9,7 +9,6 @@ def openfile(filename):
         reader = csv.DictReader(r)
         # Add all the attributes required in the new file in the array below.
         header = [
-            'ACTIVITY_FEES',
             'COMMUNICATIONS_AND_IT_EXPENSE',
             'CUSTOMER_ID',
             'END_DATE',
@@ -32,6 +31,7 @@ def openfile(filename):
         writer.writeheader()
         # Add all the attributes that need to be eliminated in the array below. 
         excluded_columns = [
+            'ACTIVITY_FEES',
             'AMOUNT_OF_MANAGEMENT_FEES',
             'ARREARS',
             'AVERAGE_SENTIMENT_SCORE',
