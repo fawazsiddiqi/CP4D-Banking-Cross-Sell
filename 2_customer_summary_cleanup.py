@@ -5,23 +5,28 @@ import time
 
 def openfile(filename):
     #New file that will be created with cleaned up data
-    with open(filename, encoding='utf-8') as r, open('Datasets-cleaned/customer_summary_clean.csv', 'w', newline='', encoding='utf-8') as w:
+    with open(filename, encoding='utf-8') as r, open('Dataset-Final/customer_summary_clean.csv', 'w', newline='', encoding='utf-8') as w:
         reader = csv.DictReader(r)
         # Add all the attributes required in the new file in the array below.
         header = [
+            'ASSETS',
+            'CUSTOMER_ID',
+            'FUNDS_UNDER_MANAGEMENT',
+            'TOP_SPENDING_CATEGORY']
+        writer = csv.DictWriter(w, fieldnames=header)
+        writer.writeheader()
+        # Add all the attributes that need to be eliminated in the array below. 
+        excluded_columns = [
             'AGGREGATE_RETAIL_SPEND',
             'AMOUNT_OF_MANAGEMENT_FEES',
             'ANNUAL_INCOME_OTHER',
             'ARREARS',
-            'ASSETS',
             'AVERAGE_SENTIMENT_SCORE',
-            'CUSTOMER_ID',
             'CUSTOMER_LIFETIME_VALUE',
             'END_DATE',
             'EXPERIENCE_NUMBER_OF_PERIODS',
             'EXPERIENCE_RATING',
             'FINANCIAL_ASSETS',
-            'FUNDS_UNDER_MANAGEMENT',
             'LATEST_SENTIMENT_SCORE',
             'LIABILITIES',
             'LIQUID_NET_WORTH',
@@ -61,7 +66,6 @@ def openfile(filename):
             'RETURN_YTD',
             'SOURCE_SYSTEM_ID',
             'START_DATE',
-            'TOP_SPENDING_CATEGORY',
             'TOTAL_AMOUNT_OF_ALL_FEES',
             'TOTAL_AMOUNT_OF_BUY_TRADES',
             'TOTAL_AMOUNT_OF_COMMISSION',
@@ -98,11 +102,7 @@ def openfile(filename):
             'TOTAL_OUTWARD_COMMUNICATIONS',
             'TOTAL_OUTWARD_EMAILS',
             'TRADING_VOLUME',
-            'TYPE']
-        writer = csv.DictWriter(w, fieldnames=header)
-        writer.writeheader()
-        # Add all the attributes that need to be eliminated in the array below. 
-        excluded_columns = [
+            'TYPE',
             'USER_DEFINED_BOOLEAN_1',
             'USER_DEFINED_BOOLEAN_2',
             'USER_DEFINED_BOOLEAN_3',
@@ -127,7 +127,8 @@ def openfile(filename):
             'USER_DEFINED_STRING_2',
             'USER_DEFINED_STRING_3',
             'USER_DEFINED_STRING_4',
-            'USER_DEFINED_STRING_5']
+            'USER_DEFINED_STRING_5'
+            ]
         for row in reader:
             for col in excluded_columns:
                 row.pop(col)
